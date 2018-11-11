@@ -1,0 +1,15 @@
+body {
+  background-color: #000001;
+  transition: 1.5s;
+}
+.navbar{
+  font-family: 'Lobster', cursive;
+  font-size: 1.2em
+
+}
+.jumbotron{
+  font-family: 'Indie Flower', cursive;
+}
+h2{
+  text-indent: 4em;
+}
