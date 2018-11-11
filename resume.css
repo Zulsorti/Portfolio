@@ -4,12 +4,27 @@ body {
 }
 .navbar{
   font-family: 'Lobster', cursive;
-  font-size: 1.2em
+  font-size: 1.2em;
+  background-image: url("https://www.publicdomainpictures.net/pictures/70000/velka/old-white-background.jpg");
+
 
 }
 .jumbotron{
-  font-family: 'Indie Flower', cursive;
+
+  font-family: 'Alegreya', serif;
+  background-image: url("https://www.publicdomainpictures.net/pictures/70000/velka/old-white-background.jpg");
 }
 h2{
   text-indent: 4em;
+}
+
+h1{
+  text-align: center;
+  text-decoration: underline;
+}
+.employer{
+    text-align: left;
+    text-decoration: underline;
+    text-indent: 0em;
+
 }
